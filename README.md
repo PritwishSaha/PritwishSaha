@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m currently working on<br>Building Data Analyst projects using Python, Pandas, NumPy, SQL, and Excel.<br>A Gurgaon Real Estate Market Analysis project.<br>Learning Git and GitHub for project management and portfolio building.<br>Creating and uploading projects to GitHub.<br>🌱 I’m currently learning<br>Advanced Python concepts (generators, data analysis workflows, debugging).<br>Data Analytics and Business Intelligence skills.<br>Git and GitHub.<br>Data visualization with Matplotlib.<br>Preparing to learn Machine Learning after strengthening your Data Analytics foundation.<br>👯 I’m looking to collaborate on<br>Beginner-friendly Data Analytics projects.<br>Exploratory Data Analysis (EDA) projects.<br>Real-world datasets involving business, real estate, Netflix, sales, or customer analytics.<br>Open-source projects suitable for aspiring data analysts.<br>🤝 I’m looking for help with<br>Building job-ready Data Analyst projects.<br>Improving Python coding skills.<br>GitHub portfolio optimization.<br>Transitioning from Data Analyst to Machine Learning and Data Science.<br>Understanding industry best practices for data projects.<br>💬 Ask me about<br>Python<br>Pandas<br>NumPy<br>SQL<br>Excel<br>Data Analysis<br>Exploratory Data Analysis (EDA)<br>Git & GitHub (beginner level)<br>Data Analyst learning roadmap<br>🎓 About Me<br>Engineering student.<br>Aspiring Data Analyst.<br>Currently focused on becoming job-ready in Data Analytics before moving into Machine Learning.<br>Interested in hands-on projects rather than only theoretical learning.<br>⚡ Fun fact<br>You frequently debug errors yourself before asking for help, which is exactly how strong analysts improve.<br>You're already thinking ahead about Machine Learning while still building a solid Data Analytics foundation—a much better approach than rushing directly into ML.
+👋 Hi, I'm **Pritwish Saha**, a B.Tech CSE (AI & ML) student and aspiring Machine Learning Engineer.
+
+I have completed my journey into **Data Analytics**, working with **Python, SQL, Excel, Pandas, NumPy, and Data Visualization** to transform data into meaningful insights. I enjoy solving real-world problems through data-driven approaches and building practical projects.
+
+Currently, I am expanding my skills in **Machine Learning, Artificial Intelligence, and Predictive Analytics** while continuing to strengthen my foundation in data science.
+
+🚀 Always learning, building, and exploring new technologies.
 
 
 ## 🌐 Socials:
