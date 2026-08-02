@@ -1,18 +1,182 @@
-# 💫 About Me:
-👋 Hi, I'm **Pritwish Saha**, a B.Tech CSE (AI & ML) student and aspiring Machine Learning Engineer.<br><br>I have completed my journey into **Data Analytics**, working with **Python, SQL, Excel, Pandas, NumPy, and Data Visualization** to transform data into meaningful insights. I enjoy solving real-world problems through data-driven approaches and building practical projects.<br><br>Currently, I am expanding my skills in **Machine Learning, Artificial Intelligence, and Predictive Analytics** while continuing to strengthen my foundation in data science.<br><br>🚀 Always learning, building, and exploring new technologies.<br>
+👋 Hi, I'm Pritwish Saha
 
+🚀 B.Tech CSE (AI & ML) Student | Aspiring Machine Learning Engineer | Data Analytics Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritwish-saha-b49604362) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PRITWISH SAHA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pritwish2006nht@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Machine+Learning+%7C+Data+Analytics+%7C+Python;Building+Data-Driven+Projects;Learning+AI+%26+Machine+Learning;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing SVG" />
+</p><p align="center">
+  <a href="https://github.com/PritwishSaha">
+    <img src="https://img.shields.io/github/followers/PritwishSaha?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=PritwishSaha&style=for-the-badge&color=00ff88" />
+</p>---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PritwishSaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PritwishSaha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PritwishSaha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🧑‍💻 About Me
+
+I'm Pritwish Saha, a B.Tech CSE (AI & ML) student passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Data-Driven Problem Solving.
+
+I have built a strong foundation in Data Analytics, working with Python, SQL, Excel, Pandas, NumPy, Data Visualization, and Power BI to analyze datasets and extract meaningful insights.
+
+Currently, I'm focused on advancing my knowledge in:
+
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Predictive Analytics
+- 🐍 Python for Data Science
+- 📈 Statistical & Exploratory Data Analysis
+- ⚙️ Machine Learning Model Development
+
+«My goal: Build practical, real-world projects that combine data, machine learning, and intelligent systems.»
 
 ---
-[![](https://komarev.com/ghpvc/?username=PritwishSaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Tech Stack
+
+👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript" />
+</p>📊 Data Analytics & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>Python • Pandas • NumPy • Matplotlib • Seaborn • SQL • Excel • Power BI
+
+🤖 Machine Learning & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>Scikit-learn • TensorFlow • Machine Learning • Predictive Analytics
+
+🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,nextjs" />
+</p>⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode" />
+</p>---
+
+🚀 What I'm Working On
+
+📊 Data Analytics
+   ├── Data Cleaning
+   ├── Exploratory Data Analysis
+   ├── SQL Analysis
+   ├── Data Visualization
+   └── Power BI Dashboards
+
+🤖 Machine Learning
+   ├── Supervised Learning
+   ├── Regression
+   ├── Classification
+   ├── Model Evaluation
+   └── Feature Engineering
+
+🧠 AI
+   ├── Machine Learning
+   ├── Predictive Systems
+   └── Intelligent Applications
+
+---
+
+📌 Featured Projects
+
+📊 Data Analytics Projects
+
+Project| Technologies| Focus
+🏏 Sports Data Analysis| Python • Pandas • SQL • Power BI| Data-driven sports insights
+🏨 Tourism Data Analysis| Python • Pandas • Matplotlib • Power BI| Visitors, revenue & tourism trends
+🎓 Student Placement Analysis| Python • Pandas • Power BI| Placement & student performance insights
+🛒 E-Commerce Analysis| SQL • Python • Power BI| Sales & customer insights
+📺 YouTube Data Analysis| Python • Pandas • Matplotlib| Views, channels & content analysis
+
+🤖 Machine Learning Projects
+
+Currently building and expanding my Machine Learning portfolio with projects involving:
+
+- 📈 Regression
+- 🎯 Classification
+- 🔍 Exploratory Data Analysis
+- ⚙️ Feature Engineering
+- 📊 Model Evaluation
+- 🧠 Predictive Analytics
+
+---
+
+📈 My Learning Journey
+
+Python
+   ↓
+NumPy + Pandas
+   ↓
+Matplotlib + Seaborn
+   ↓
+SQL + Excel
+   ↓
+Power BI
+   ↓
+Data Analytics
+   ↓
+Machine Learning
+   ↓
+Artificial Intelligence
+   ↓
+🚀 Machine Learning Engineer
+
+---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PritwishSaha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=PritwishSaha&theme=tokyonight&hide_border=true" height="180"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritwishSaha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>---
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PritwishSaha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>---
+
+📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritwishSaha&theme=tokyo-night&hide_border=true" />
+</p>---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://www.linkedin.com/in/pritwish-saha-b49604362/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:pritwish2006nht@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/PritwishSaha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></p>---
+
+💡 My Current Focus
+
++ Building Machine Learning Projects
++ Improving Python & SQL
++ Strengthening Data Science Fundamentals
++ Learning Predictive Analytics
++ Building Real-World Data Projects
++ Improving Problem Solving & DSA
+
+---
+
+⚡ Fun Fact
+
+«I enjoy taking raw datasets, cleaning the mess, finding hidden patterns, and turning them into something useful. 📊 → 🤖»
+
+---
+
+<h3 align="center">
+  🚀 Learn • Build • Analyze • Improve • Repeat
+</h3><p align="center">
+  <i>Thanks for visiting my profile!</i> 👋
+</p>
